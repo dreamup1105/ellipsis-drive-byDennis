@@ -1,0 +1,12 @@
+.sliderArrow {
+  z-index: 2;
+  &:hover {
+    path {
+      fill: #ffffff;
+    }
+  }
+}
+.slick-list {
+  padding: 0 20% 0 0 !important;
+}
+

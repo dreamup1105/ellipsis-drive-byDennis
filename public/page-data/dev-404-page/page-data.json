@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---cache-dev-404-page-js",
+    "path": "/dev-404-page/",
+    "result": {"data":{"allSiteFunction":{"nodes":[{"functionRoute":"api"}]},"allSitePage":{"nodes":[{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/article/"},{"path":"/blogs/"},{"path":"/contact/"},{"path":"/"},{"path":"/post/"},{"path":"/pricing/"},{"path":"/privacy/"},{"path":"/solutions/"},{"path":"/terms/"},{"path":"/blog/"},{"path":"/solution/"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
